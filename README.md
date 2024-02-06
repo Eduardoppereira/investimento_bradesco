@@ -1,6 +1,8 @@
-# Bem-vindo ao meu novo protótipo de um relatório de Investimentos!
+# Relatório de Investimentos - Bradesco
 
-![Food Delivery Dashboard](https://github.com/Eduardoppereira/texas_in_burgues/blob/main/Food%20Delivery%20Dashboard_2.png)
+![Relatório de Investimento](https://github.com/Eduardoppereira/investimento_bradesco/blob/main/Main1.png)
+![Relatório de Investimento](https://github.com/Eduardoppereira/investimento_bradesco/blob/main/Main2.png)
+
 
 ## Esse projeto visa oferecer um visão detalhada do desempenho dos seus investimentos, apresentando análises e métricas essenciais
 Lembre-se, os dados apresentados são fictícios e apenas para fins ilustrativos.
